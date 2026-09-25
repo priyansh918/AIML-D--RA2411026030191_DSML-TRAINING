@@ -36,4 +36,4 @@ This repository contains practical assignments and machine learning implementati
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/Madhusudhan9711/MYANATOMY_PROJECT_AIML-D_RA2411026030187.git](https://github.com/Madhusudhan9711/MYANATOMY_PROJECT_AIML-D_RA2411026030187.git)
+   git clone https://github.com/priyansh918/AIML-D--RA2411026030191_DSML-TRAINING.git
